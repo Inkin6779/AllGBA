@@ -28,7 +28,7 @@ var games = {
     "pokemonxy":"Pokemon X and Y for GBA",
     "pokemonunbound":"Pokemon Unbound",
     "pokemonultimatefusion":"Pokemon Ultimate Fusion",
-    "marioparty":"Mario Party Advance",  
+    "mariokart":"Mario Kart Super Circuit",  
 };
 var Iodine = null;
 var Blitter = null;
