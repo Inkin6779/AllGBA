@@ -44,7 +44,7 @@ var MixerInput = null;
 var timerID = null;
 window.onload = function () {
     if (!games[location.hash.substr(1)]) {
-        alert("Invalid game request!");
+        alert("GAME DOES NOT EXIST!");
         return;
     }
     //Initialize Iodine:
