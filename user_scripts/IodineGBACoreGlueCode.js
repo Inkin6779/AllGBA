@@ -24,7 +24,6 @@ var games = {
     "pokemonred":"Pokemon Red",
     "pokemonblue":"Pokemon Blue",
     "pokemonyellow":"Pokemon Yellow",
-    
     "pokemongold":"Pokemon Gold",
     "pokemonsilver":"Pokemon Silver",
     "pokemoncrystal":"Pokemon Crystal",
@@ -36,6 +35,8 @@ var games = {
     "pokemonultimatefusion":"Pokemon Ultimate Fusion",
     "mariokart":"Mario Kart Super Circuit", 
     "tetris":"Tetris",
+    "monopoly":"Monopoly",
+    "mysteryred":"Pokémon Mystery Dungeon: Red Rescue Team"
 };
 var Iodine = null;
 var Blitter = null;
