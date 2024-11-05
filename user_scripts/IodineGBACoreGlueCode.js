@@ -27,6 +27,7 @@ var games = {
     "pokemongold":"Pokemon Gold",
     "pokemonsilver":"Pokemon Silver",
     "pokemoncrystal":"Pokemon Crystal",
+    "pokemoncrystalbroken":"Pokemon Crystal (BROKEN EDITION)",
     "pokemonsapphire":"Pokemon Sapphire",
     "pokemonfirered":"Pokemon Fire Red",
     "pokemonpinball":"Pokemon Pinball",
