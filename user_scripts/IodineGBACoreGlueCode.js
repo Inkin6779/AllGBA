@@ -31,6 +31,8 @@ var games = {
     "pokemonsapphire":"Pokemon Sapphire",
     "pokemonfirered":"Pokemon Fire Red",
     "pokemonpinball":"Pokemon Pinball",
+    "pokemonpinballgenii":"Pokemon Pinball (Generations)",
+    "pokemonpinballgeni":"Pokemon Pinball (Original)",
     "pokemonxy":"Pokemon X and Y for GBA",
     "pokemonunbound":"Pokemon Unbound",
     "pokemonultimatefusion":"Pokemon Ultimate Fusion",
