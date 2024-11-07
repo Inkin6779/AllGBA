@@ -16,6 +16,7 @@
  *
  */
 var games = {
+    "pokemon898":"Pokemon FireRed 898 Randomizer ROM Hack",
     "pokemonemerald":"Pokemon Emerald",
     "pokemonleafgreen":"Pokemon Leaf Green",
     "pokemonlightplatinum":"Pokemon Light Platinum",
