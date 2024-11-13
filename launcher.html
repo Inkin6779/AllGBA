@@ -4,6 +4,11 @@
         <title>GBA GameCenter</title>
         <link rel="shortcut icon" type="image/jpeg" href="favicon.jpg"/>
         <meta charset="UTF-8">
+        <script>
+        window.onbeforeunload = function() {
+            return "Are you sure you want to reload?";
+        };
+    </script>
             <!--Required Scripts-->
             <script src="IodineGBA/includes/TypedArrayShim.js"></script>
             <script src="IodineGBA/core/Cartridge.js"></script>
